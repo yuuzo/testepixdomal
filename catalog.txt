@@ -1,0 +1,199 @@
+---
+codigo> 4234234324000003
+Mes: 03
+Ano: 2025
+
+Tipo: Beginner
+Subtipo: Silver
+Nivel: iniciante
+Classe: Guerreiro
+Pais: Brasil
+
+Nome do pet:
+Bolt Relâmpago
+Codigo de criação
+ABCD-1111-AAAA-0003
+Disponível: nao
+Preço: 20.00
+
+---
+codigo> 4234234324000005
+Mes: 05
+Ano: 2023
+
+Tipo: Pro
+Subtipo: Gold
+Nivel: avançado
+Classe: Cavaleiro
+Pais: Portugal
+
+Nome do pet:
+Argos Escudeiro
+Codigo de criação
+EFGH-2222-BBBB-0005
+Disponível: sim
+Preço: 45.00
+
+---
+codigo> 4234234324000006
+Mes: 06
+Ano: 2022
+
+Tipo: Pro
+Subtipo: Silver
+Nivel: avançado
+Classe: Assassino
+Pais: Portugal
+
+Nome do pet:
+Sombra Silenciosa
+Codigo de criação
+EFGH-2222-BBBB-0006
+Disponível: nao
+Preço: 40.00
+
+---
+codigo> 4234234324000007
+Mes: 07
+Ano: 2025
+
+Tipo: Premium
+Subtipo: Platinum
+Nivel: mestre
+Classe: Alquimista
+Pais: México
+
+Nome do pet:
+Quetzal Dourado
+Codigo de criação
+IJKL-3333-CCCC-0007
+Disponível: sim
+Preço: 80.00
+
+---
+codigo> 4234234324000009
+Mes: 09
+Ano: 2023
+
+Tipo: Premium
+Subtipo: Gold
+Nivel: mestre
+Classe: Bardo
+Pais: México
+
+Nome do pet:
+Pícolo Cantor
+Codigo de criação
+IJKL-3333-CCCC-0009
+Disponível: nao
+Preço: 75.00
+
+---
+codigo> 4234234324000012
+Mes: 12
+Ano: 2022
+
+Tipo: Elite
+Subtipo: Sapphire
+Nivel: lendário
+Classe: Invocador
+Pais: Espanha
+
+Nome do pet:
+Tigre Azul
+Codigo de criação
+MNOP-4444-DDDD-0012
+Disponível: nao
+Preço: 100.00
+
+---
+codigo> 4234234324000013
+Mes: 01
+Ano: 2025
+
+Tipo: Starter
+Subtipo: Bronze
+Nivel: iniciante
+Classe: Lenhador
+Pais: Brasil
+
+Nome do pet:
+Tatu Corajoso
+Codigo de criação
+QRST-5555-EEEE-0013
+Disponível: sim
+Preço: 10.00
+
+---
+codigo> 4234234324000014
+Mes: 02
+Ano: 2025
+
+Tipo: Starter
+Subtipo: Iron
+Nivel: iniciante
+Classe: Pescador
+Pais: Brasil
+
+Nome do pet:
+Peixe Risonho
+Codigo de criação
+QRST-5555-EEEE-0014
+Disponível: sim
+Preço: 12.00
+
+---
+codigo> 4234234324000015
+Mes: 03
+Ano: 2024
+
+Tipo: Starter
+Subtipo: Leather
+Nivel: iniciante
+Classe: Agricultor
+Pais: Brasil
+
+Nome do pet:
+Galo Valente
+Codigo de criação
+QRST-5555-EEEE-0015
+Disponível: nao
+Preço: 9.50
+
+---
+codigo> 4234234324000018
+Mes: 06
+Ano: 2025
+
+Tipo: Advanced
+Subtipo: Onyx
+Nivel: avançado
+Classe: Explorador
+Pais: Chile
+
+Nome do pet:
+Puma Noturno
+Codigo de criação
+UVWX-6666-FFFF-0018
+Disponível: nao
+Preço: 58.00
+
+---
+codigo> 4234234324000019
+Mes: 07
+Ano: 2024
+
+Tipo: Pro
+Subtipo: Platinum
+Nivel: avançado
+Classe: Sentinela
+Pais: Portugal
+
+Nome do pet:
+Lince Vigilante
+Codigo de criação
+EFGH-2222-BBBB-0019
+Disponível: sim
+Preço: 52.00
+
+---
